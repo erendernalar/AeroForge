@@ -1,0 +1,44 @@
+{
+  "mission_name": "sample_glider",
+  "objectives": {
+    "maximize": ["L_D_ratio"],
+    "minimize": ["CD_total"]
+  },
+  "constraints": {
+    "geometry": {
+      "max_span": 2.0,
+      "min_span": 1.0,
+      "max_wing_area": 1.5,
+      "min_wing_area": 0.3
+    },
+    "performance": {
+      "min_CL_max": 1.2,
+      "min_L_D_ratio": 10.0
+    }
+  },
+  "design_space": {
+    "span_range": [1.2, 1.8],
+    "root_chord_range": [0.2, 0.35],
+    "tip_chord_range": [0.1, 0.25],
+    "speed_range": [18.0, 25.0],
+    "fixed_parameters": {
+      "empty_weight": 2.0,
+      "payload_weight": 0.5
+    }
+  },
+  "analysis_settings": {
+    "reynolds_number": 500000,
+    "angle_of_attack_range": [-4, 14],
+    "cruise_alpha": 5.0
+  },
+  "optimization": {
+    "max_iterations": 100,
+    "population_size": 50,
+    "convergence_tolerance": 1e-6
+  },
+  "output": {
+    "save_top_n": 10,
+    "plot_results": true,
+    "export_formats": ["csv", "json"]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "mission_name": "custom_airfoil_glider",
+  "description": "Glider optimization with custom airfoil support",
+  
+  "airfoil_configuration": {
+    "root_airfoil": {
+      "type": "custom",
+      "name": "NACA2412"
+    },
+    "tip_airfoil": {
+      "type": "custom", 
+      "name": "NACA0012"
+    }
+  },
+  
+  "objectives": {
+    "maximize": ["L_D_ratio", "max_range"],
+    "minimize": ["CD_total"],
+    "weights": {
+      "L_D_ratio": 2.0,
+      "max_range": 1.0,
+      "CD_total": 1.0
+    }
+  },
+  
+  "constraints": {
+    "geometry": {
+      "max_span": 2.5,
+      "min_span": 1.0,
+      "max_wing_area": 1.8,
+      "min_wing_area": 0.4,
+      "max_aspect_ratio": 15.0,
+      "min_aspect_ratio": 6.0
+    },
+    "performance": {
+      "min_L_D_ratio": 15.0,
+      "min_CL_max": 1.2,
+      "min_stall_margin": 0.3,
+      "max_wing_loading": 50.0
+    }
+  },
+  
+  "design_space": {
+    "span_range": [1.2, 2.3],
+    "root_chord_range": [0.18, 0.35],
+    "tip_chord_range": [0.08, 0.25],
+    "sweep_range": [0.0, 10.0],
+    "twist_range": [-4.0, 4.0],
+    "speed_range": [18.0, 28.0],
+    "fixed_parameters": {
+      "empty_weight": 2.2,
+      "payload_weight": 0.8,
+      "cruise_altitude": 150.0,
+      "design_load_factor": 3.5
+    }
+  },
+  
+  "analysis_settings": {
+    "reynolds_number": 500000,
+    "mach_number": 0.0,
+    "angle_of_attack_range": [-6, 16],
+    "alpha_step": 0.5,
+    "cruise_alpha": 5.0
+  },
+  
+  "optimization": {
+    "method": "differential_evolution",
+    "max_iterations": 150,
+    "population_size": 60,
+    "convergence_tolerance": 1e-6
+  },
+  
+  "output": {
+    "save_top_n": 10,
+    "plot_results": true,
+    "export_formats": ["json", "csv"],
+    "output_directory": "output"
+  }
+}

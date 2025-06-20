@@ -1,8 +1,8 @@
 """
 AeroForge Wing Analysis Module
-Handles 3D wing analysis using Lifting Line Theory
+Provides 3D wing analysis using Lifting Line Theory
 """
 
-from .llt_solver import LiftingLineTheory, WingSection
+from .llt_solver import LLTSolver
 
-__all__ = ['LiftingLineTheory', 'WingSection']
+__all__ = ['LLTSolver']

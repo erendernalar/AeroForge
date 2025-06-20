@@ -1,12 +1,9 @@
 """
 AeroForge Optimization Module
-Handles aircraft design optimization and evaluation
+Provides design optimization and evaluation capabilities
 """
 
-from .evaluator import (DesignEvaluator, DesignParameters, PerformanceMetrics,
-                       GeometryConstraint, PerformanceConstraint, ObjectiveFunction)
-from .design_loop import AeroForgeOptimizer
+from .evaluator import Evaluator
+from .design_loop import DesignLoop
 
-__all__ = ['DesignEvaluator', 'DesignParameters', 'PerformanceMetrics',
-           'GeometryConstraint', 'PerformanceConstraint', 'ObjectiveFunction',
-           'AeroForgeOptimizer']
+__all__ = ['Evaluator', 'DesignLoop']

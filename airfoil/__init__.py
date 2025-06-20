@@ -1,9 +1,9 @@
 """
 AeroForge Airfoil Analysis Module
-Handles 2D airfoil analysis and management
+Provides 2D airfoil analysis using XFOIL integration
 """
 
-from .xfoil_driver import XFOILDriver
+from .xfoil_driver import XfoilDriver
 from .airfoil_manager import AirfoilManager
 
-__all__ = ['XFOILDriver', 'AirfoilManager']
+__all__ = ['XfoilDriver', 'AirfoilManager']

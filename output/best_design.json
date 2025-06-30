@@ -1,0 +1,1165 @@
+{
+    "design": {
+        "span": 1.4145950310931852,
+        "root_chord": 0.2546526783858127,
+        "tip_chord": 0.21010205239760416,
+        "sweep": 8.798541259706976,
+        "dihedral": 0.0,
+        "twist": -4.187587658212288,
+        "taper_ratio": 0.8250533775234364,
+        "airfoil_root": "NACA2412",
+        "airfoil_tip": "NACA2412",
+        "cruise_speed": 18.451764238186836,
+        "cruise_altitude": 100.0,
+        "design_load_factor": 3.5,
+        "empty_weight": 2.0,
+        "payload_weight": 0.5
+    },
+    "performance": {
+        "CL_cruise": 0.0,
+        "CD_total": 0.00913,
+        "CDi": 0.0,
+        "CDp": 0.0,
+        "L_D_ratio": 0.0,
+        "static_margin": 0.0,
+        "CL_max": 1.3779,
+        "stall_margin": Infinity,
+        "max_range": 0.0,
+        "endurance": 0.0,
+        "climb_rate": 0.0,
+        "wing_loading": 74.60759906899797,
+        "power_loading": 0.0,
+        "mission_score": 109.5290251916758,
+        "constraint_penalty": 1.0,
+        "total_score": 9.5290251916758
+    },
+    "convergence_history": [
+        {
+            "iteration": 1,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 2,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 3,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 4,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 5,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 6,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 7,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 8,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 9,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 10,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 11,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 12,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 13,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 14,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 15,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 16,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 17,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 18,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 19,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 20,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 21,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 22,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 23,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 24,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 25,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 26,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 27,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 28,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 29,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 30,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 31,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 32,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 33,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 34,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 35,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 36,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 37,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 38,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 39,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 40,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 41,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 42,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 43,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 44,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 45,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 46,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 47,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 48,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 49,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 50,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 51,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 52,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 53,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 54,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 55,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 56,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 57,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 58,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 59,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 60,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 61,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 62,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 63,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 64,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 65,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 66,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 67,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 68,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 69,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 70,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 71,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 72,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 73,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 74,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 75,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 76,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 77,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 78,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 79,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 80,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 81,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 82,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 83,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 84,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 85,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 86,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 87,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 88,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 89,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 90,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 91,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 92,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 93,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 94,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 95,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 96,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 97,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 98,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 99,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 100,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 101,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 102,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 103,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 104,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 105,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 106,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 107,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 108,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 109,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 110,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 111,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 112,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 113,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 114,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 115,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 116,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 117,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 118,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 119,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 120,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 121,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 122,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 123,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 124,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 125,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 126,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 127,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 128,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 129,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 130,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 131,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 132,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 133,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 134,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 135,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 136,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 137,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 138,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 139,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 140,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 141,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 142,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 143,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 144,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 145,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 146,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 147,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 148,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 149,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 150,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 151,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 152,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 153,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 154,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 155,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 156,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 157,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 158,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 159,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 160,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 161,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 162,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 163,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 164,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 165,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 166,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 167,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 168,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 169,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 170,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 171,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 172,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 173,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 174,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 175,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 176,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 177,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 178,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 179,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 180,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 181,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 182,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 183,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 184,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 185,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 186,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        },
+        {
+            "iteration": 187,
+            "score": 9.5290251916758,
+            "L_D_ratio": 0.0,
+            "constraint_penalty": 1.0
+        }
+    ],
+    "optimization_info": {
+        "evaluations": 187,
+        "time": 194.11996388435364,
+        "success": true
+    }
+}
